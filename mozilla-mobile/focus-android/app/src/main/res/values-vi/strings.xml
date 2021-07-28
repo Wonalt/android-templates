@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="action_cancel">Hủy bỏ</string>
+  <string name="action_ok">OK</string>
+  <string name="action_save">Lưu</string>
+  <string name="urlbar_hint">Tìm kiếm hoặc nhập địa chỉ</string>
+  <string name="teaser">Duyệt web riêng tư.\nDuyệt. Xóa. Lặp lại.</string>
+  <string name="feedback_erase">Lịch sử duyệt web của bạn đã bị xóa.</string>
+  <string name="feedback_erase_custom_tab">Lịch sử duyệt web của thẻ đã bị xóa.</string>
+  <string name="search_hint">Tìm kiếm %1$s</string>
+  <string name="menu_share">Chia sẻ…</string>
+  <string name="menu_report_site_issue">Báo cáo vấn đề về trang</string>
+  <string name="menu_open_with_default_browser2">Mở bằng %1$s</string>
+  <string name="menu_open_with_a_browser2">Mở bằng…</string>
+  <string name="menu_add_to_home_screen">Thêm vào màn hình chính</string>
+  <string name="menu_whats_new">Có gì mới</string>
+  <string name="menu_settings">Cài đặt</string>
+  <string name="menu_about">Giới thiệu</string>
+  <string name="menu_help">Trợ giúp</string>
+  <string name="menu_rights">Quyền lợi của bạn</string>
+  <string name="menu_trackers_blocked_title">Trình theo dõi đã chặn</string>
+  <string name="menu_trackers_blocked_subtitle">Tắt tính năng này có thể khắc phục một số vấn đề về trang web</string>
+  <string name="menu_content_blocking">Chặn nội dung</string>
+  <string name="menu_content_blocking_subtitle">Tắt để khắc phục lỗi một số trang web</string>
+  <string name="menu_custom_tab_branding">Được hỗ trợ bởi %1$s</string>
+  <string name="share_dialog_title">Chia sẻ qua</string>
+  <string name="notification_erase_text">Xóa lịch sử duyệt web</string>
+  <string name="notification_action_open">Mở</string>
+  <string name="notification_action_erase_and_open">Xóa và mở</string>
+  <string name="shortcut_erase_short_label">Xóa</string>
+  <string name="shortcut_erase_long_label">Xóa lịch sử duyệt web</string>
+  <string name="shortcut_erase_and_open_short_label">Xóa &amp; mở</string>
+  <string name="shortcut_erase_and_open_long_label">Xóa và mở %1$s</string>
+  <string name="text_selection_search_action">Tìm kiếm riêng tư hơn</string>
+
+  <string name="preference_privacy_and_security_header">Riêng tư &amp; Bảo mật</string>
+  <string name="preference_privacy_and_security_summary">Theo dõi, cookie, lựa chọn dữ liệu</string>
+  <string name="preference_search_summary">Đặt làm mặc định, tự đồng điền</string>
+  <string name="preference_mozilla_summary">Giới thiệu về %1$s, trợ giúp</string>
+  <string name="preference_category_tracking_protection">Trình chống theo dõi</string>
+  <string name="preference_category_web_content">Nội dung web</string>
+  <string name="preference_category_switching_apps">Chuyển đổi ứng dụng</string>
+  <string name="preference_category_general">Chung</string>
+  <string name="preference_general_summary">Trình duyệt mặc định, thẻ, ngôn ngữ</string>
+  <string name="preference_category_data_collection_use">Thu thập &amp; sử dụng dữ liệu</string>
+  <string name="preference_category_search">Tìm kiếm</string>
+  <string name="preference_show_search_suggestions">Nhận gợi ý tìm kiếm</string>
+  <string name="preference_show_search_suggestions_summary">%1$s sẽ gửi nội dung bạn nhập vào thanh địa chỉ đến công cụ tìm kiếm của bạn</string>
+  <string name="preference_search_engine_default">Mặc định</string>
+  <string name="preference_search_engine_label">Máy tìm kiếm</string>
+  <string name="preference_state_on">Bật</string>
+  <string name="preference_state_off">Tắt</string>
+  <string name="preference_subitem_autocomplete">URL tự động điền</string>
+  <string name="preference_switch_autocomplete_topsites">Với các trang web hàng đầu</string>
+  <string name="preference_autocomplete_topsite_summary">Bật để tự động hoàn thành hơn 450 URL phổ biến trong thanh địa chỉ.</string>
+  <string name="preference_switch_autocomplete_user_list">Với trang web bạn thêm</string>
+  <string name="preference_autocomplete_user_list_summary">Bật để tự động hoàn thành hơn 450 URL phổ biến trong thanh địa chỉ.</string>
+  <string name="preference_category_autocomplete_manage_sites">Quản lý trang web</string>
+  <string name="preference_autocomplete_subitem_manage_sites">Quản lý trang web</string>
+  <string name="preference_autocomplete_action_add">+ Thêm URL tùy chỉnh</string>
+  <string name="preference_autocomplete_title_add">Thêm URL tùy chỉnh</string>
+  <string name="custom_autocomplete_quick_add">Thêm URL tùy chỉnh</string>
+  <string name="add_custom_autocomplete_label">Thêm liên kết vào tự động điền</string>
+  <string name="preference_category_cookies">Cookie và dữ liệu trang</string>
+  <string name="preference_category_data_choices">Lựa chọn dữ liệu</string>
+  <string name="preference_autocomplete_title_remove">Loại bỏ các URL tùy chỉnh</string>
+  <string name="preference_autocomplete_learn_more">Tìm hiểu thêm</string>
+  <string name="preference_autocomplete_custom_summary">Thêm và quản lý các URL tùy chỉnh tự động điền.</string>
+  <string name="preference_autocomplete_add_title">URL muốn thêm</string>
+  <string name="preference_autocomplete_add_hint">Dán hoặc nhập URL</string>
+  <string name="preference_autocomplete_add_example2">Ví dụ: mozilla.org</string>
+  <string name="preference_autocomplete_add_example">Ví dụ: example.com</string>
+  <string name="preference_autocomplete_add_confirmation">URL tùy chỉnh mới đã được thêm vào.</string>
+  <string name="preference_autocomplete_menu_remove">Loại bỏ</string>
+  <string name="preference_autocomplete_action_remove_content_description">Loại bỏ</string>
+  <string name="preference_autocomplete_add_error">Kiểm tra lại URL mà bạn đã nhập.</string>
+  <string name="preference_language">Ngôn ngữ</string>
+  <string name="preference_language_systemdefault">Mặc định của hệ thống</string>
+  <string name="preference_category_privacy">Riêng tư</string>
+  <string name="preference_privacy_block_ads">Chặn trình theo dõi quảng cáo</string>
+  <string name="preference_privacy_block_ads_summary">Một số quảng cáo theo dõi lượt truy cập trang, ngay cả khi bạn không click vào quảng cáo</string>
+  <string name="preference_privacy_block_analytics">Chặn trình theo dõi phân tích</string>
+  <string name="preference_privacy_block_analytics_summary">Được sử dụng để thu thập, phân tích và đo lường các hoạt động như chạm và cuộn trang</string>
+  <string name="preference_privacy_block_social">Chặn trình theo dõi xã hội</string>
+  <string name="preference_privacy_block_social_summary">Được nhúng vào các trang để theo dõi lượt truy cập của bạn và để hiển thị tính năng chẳng hạn như các nút chia sẻ</string>
+  <string name="preference_privacy_block_content">Chặn trình theo dõi khác</string>
+  <string name="preference_privacy_block_content_summary2">Việc kích hoạt có thể khiến một số trang hoạt động không như mong đợi</string>
+  <string name="preference_privacy_category_cookies">Chặn cookie</string>
+  <string name="preference_privacy_should_block_cookies_no_option">Không</string>
+  <string name="preference_privacy_should_block_cookies_third_party_tracker_cookies_option">Chỉ chặn cookie theo dõi của bên thứ ba</string>
+  <string name="preference_privacy_should_block_cookies_third_party_only_option">Chỉ chặn cookie bên thứ ba</string>
+  <string name="preference_privacy_should_block_cookies_yes_option">Có</string>
+  <string name="preference_security_biometric">Sử dụng vân tay để mở khóa ứng dụng</string>
+  <string name="preference_security_biometric_summary">Cảm biến vân tay của bạn có thể mở khóa %1$s nếu một URL đã được mở trong ứng dụng. Riêng tư sẽ được kích hoạt.</string>
+  <string name="preference_privacy_secure_mode">Chế độ ẩn</string>
+  <string name="preference_privacy_stealth_summary">Ẩn trang web khi chuyển sang ứng dụng khác và chặn chụp ảnh màn hình.</string>
+  <string name="preference_category_security">Bảo mật</string>
+  <string name="preference_category_performance">Hiệu suất</string>
+  <string name="preference_performance_block_webfonts">Chặn phông chữ trang Web</string>
+  <string name="preference_performance_block_webfonts_summary">Có thể dẫn đến thiếu biểu tượng hoặc hình ảnh</string>
+  <string name="preference_performance_block_javascript">Chặn JavaScript</string>
+  <string name="preference_performance_block_javascript_summary">Trang có thể tải nhanh hơn, nhưng cũng có thể hoạt động thiếu ổn định</string>
+  <string name="preference_default_browser2">Đặt %1$s làm trình duyệt mặc định</string>
+  <string name="preference_category_mozilla">Mozilla</string>
+  <string name="preference_mozilla_telemetry2">Gửi dữ liệu sử dụng</string>
+  <string name="preference_mozilla_telemetry_summary">Tìm hiểu thêm</string>
+  <string name="preference_mozilla_telemetry_summary2">Mozilla chỉ thu thập những gì chúng tôi cần cung cấp và cải tiến %1$s cho tất cả mọi người.</string>
+  <string name="preference_privacy_notice">Chính sách riêng tư</string>
+  <string name="preference_about">Thông tin về %1$s</string>
+  <string name="preference_search_installed_search_engines">Công cụ tìm kiếm đã cài đặt</string>
+  <string name="preference_search_restore">Khôi phục công cụ tìm kiếm mặc định</string>
+  <string name="preference_search_add2">+ Thêm công cụ tìm kiếm khác</string>
+  <string name="preference_search_remove_title">Gỡ bỏ công cụ tìm kiếm</string>
+  <string name="preference_search_remove">Gỡ bỏ</string>
+  <string name="preference_homescreen_tips">Hiện mẹo trên màn hình chính</string>
+  <string name="action_option_add_search_engine">Thêm công cụ tìm kiếm</string>
+  <string name="search_add_manually_name_hint">Tên công cụ tìm kiếm</string>
+  <string name="search_add_manually_string">Chuỗi tìm kiếm để sử dụng</string>
+  <string name="search_add_manually_save">Lưu</string>
+  <string name="search_add_manually_example">Ví dụ: example.com/search/?q=%s</string>
+  <string name="search_add_confirmation">Đã thêm công cụ tìm kiếm mới.</string>
+  <string name="search_add_error_empty_name">Nhập tên công cụ tìm kiếm</string>
+  <string name="search_add_error_duplicate_name">Một công cụ tìm kiếm đã cài đặt đã sử dụng cùng tên này.</string>
+  <string name="search_add_error_empty_search">Nhập chuỗi tìm kiếm</string>
+  <string name="search_add_error_format">Kiểm tra xem chuỗi tìm kiếm có đúng với định dạng như ở ví dụ không</string>
+  <string name="content_description_clear_input">Xóa trắng</string>
+  <string name="content_description_dismiss_input">Bỏ qua</string>
+  <string name="content_description_erase">Xóa lịch sử duyệt web</string>
+  <string name="content_description_tab_counter">Thẻ đang mở: %1$s</string>
+  <string name="content_description_lock">Kết nối an toàn</string>
+  <string name="accessibility_announcement_loading">Đang tải</string>
+  <string name="accessibility_announcement_loading_finished">Đã tải xong trang web</string>
+  <string name="content_description_menu">Tùy chọn thêm</string>
+  <string name="indicator_content_description_menu">Nút tùy chọn khác</string>
+  <string name="content_description_forward">Điều hướng tiến</string>
+  <string name="content_description_reload">Tải lại trang web</string>
+  <string name="content_description_back">Điều hướng lùi</string>
+  <string name="content_description_stop">Dừng tải trang web</string>
+  <string name="content_description_customtab_exit">Quay về ứng dụng trước đó</string>
+  <string name="content_description_trackers_blocked">Số trình theo dõi đã chặn</string>
+  <string name="content_description_blocking_switch">Chặn theo dõi</string>
+  <string name="your_rights">Quyền lợi của bạn</string>
+  <string name="external_app_prompt_title">Mở đường dẫn trong ứng dụng khác</string>
+  <string name="external_app_prompt">Bạn có thể rời khỏi %1$s để mở liên kết này trong %2$s.</string>
+  <string name="external_app_prompt_no_app_title">Tìm ứng dụng có thể mở liên kết này</string>
+  <string name="external_app_prompt_no_app">Không có ứng dụng nào trên thiết bị của bạn có thể mở liên kết này. Bạn có thể rời khỏi %1$s để tìm ứng dụng có thể mở %2$s.</string>
+  <string name="external_multiple_apps_matched_exit">Thoát duyệt web riêng tư?</string>
+  <string name="download_snackbar_finished">Đã tải xong %1$s</string>
+  <string name="download_snackbar_open">Mở</string>
+
+
+
+
+
+
+
+
+
+  <string name="error_hostLookup_title">Không tìm thấy máy chủ</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <string name="firstrun_defaultbrowser_title">Tăng quyền riêng tư của bạn</string>
+  <string name="firstrun_defaultbrowser_text2">Duyệt web ở chế độ riêng tư để nâng cao bảo mật. Giúp làm giảm thời gian tải trang và chặn các quảng cáo và nội dung mà có thể theo dõi bạn trên các trang web.</string>
+  <string name="firstrun_search_title">Tìm kiếm của bạn, theo cách của bạn</string>
+  <string name="firstrun_search_text">Đang tìm kiếm với cái gì khác? Chọn công cụ tìm kiếm khác thành mặc định trong Cài đặt.</string>
+  <string name="firstrun_shortcut_title">Thêm lối tắt tới màn hình chính của bạn</string>
+  <string name="firstrun_shortcut_text">Quay lại trang web của bạn nhanh hơn trong %1$s. Chỉ cần chọn \"Thêm vào màn hình chính\" trong menu %1$s.</string>
+  <string name="firstrun_privacy_title">Làm cho sự riêng tư thành một thói quen</string>
+  <string name="firstrun_privacy_text">Đặt %1$s làm trình duyệt mặc định của bạn và nhận được lợi ích của duyệt web riêng tư khi bạn mở các trang web từ các ứng dụng khác.</string>
+  <string name="firstrun_close_button">Đã hiểu!</string>
+  <string name="firstrun_skip_button">Bỏ qua</string>
+  <string name="firstrun_next_button">Tiếp</string>
+  <string name="content_blocking_disabled">-</string>
+  <string name="dialog_addtohomescreen_action_add">Thêm</string>
+  <string name="dialog_addtohomescreen_action_cancel">Hủy bỏ</string>
+  <string name="dialog_addtohomescreen_tracking_protection">Lối tắt sẽ mở mà không có trình chống theo dõi</string>
+  <string name="notification_browsing_session_channel_name">Phiên duyệt web riêng tư</string>
+  <string name="notification_browsing_session_channel_description">Thông báo cho phép bạn xóa phiên làm việc của %1$s với một cú nhấp. Bạn không cần mở ứng dụng hoặc xem những gì đang chạy trong trình duyệt của bạn.</string>
+  <string name="tabs_tray_action_erase">Xóa lịch sử duyệt web</string>
+  <string name="download_firefox">Tải Firefox</string>
+  <string name="your_rights_content1">%1$s là phần mềm miễn phí và mã nguồn mở do Mozilla và các cộng tác viên khác cung cấp.</string>
+
+
+
+
+  <string name="gv_prompt_username_hint">Tên đăng nhập</string>
+  <string name="gv_prompt_password_hint">Mật khẩu</string>
+  <string name="gv_prompt_clear">Xóa</string>
+  <string name="security_popup_secure_connection">Kết nối an toàn</string>
+  <string name="security_popup_insecure_connection">Kết nối không an toàn</string>
+  <string name="security_popup_security_verified">Xác minh bởi: %1$s</string>
+  <string name="site_security_icon_content_description">Bảo mật trang web</string>
+  <string name="preference_autocomplete_duplicate_url_error">URL đã tồn tại</string>
+  <string name="find_in_page">Tìm trong trang</string>
+  <string name="find_in_page_input">Tìm trong trang</string>
+  <string name="find_in_page_result">%1$d/%2$d</string>
+  <string name="accessibility_find_in_page_result">%1$d trong số %2$d</string>
+  <string name="accessibility_next_result">Tìm kiếm kết quả tiếp theo</string>
+  <string name="accessibility_previous_result">Tìm kiếm kết quả trước đó</string>
+  <string name="accessibility_dismiss_find_in_page">Loại bỏ tìm kiếm trong trang</string>
+
+
+
+  <string name="preference_performance_request_desktop_site">Yêu cầu trang web trên máy tính</string>
+  <string name="custom_tab_copy_url_action">Đã sao chép URL</string>
+  <string name="preference_advanced_summary">Công cụ nhà phát triển</string>
+  <string name="preference_category_advanced">Nâng cao</string>
+  <string name="preference_remote_debugging">Gỡ lỗi từ xa qua USB/Wi-Fi</string>
+  <string name="biometric_auth_title">Mở khóa %1$s</string>
+  <string name="biometric_auth_description">Chạm vào cảm biến vân tay để tiếp tục.</string>
+  <string name="biometric_auth_new_session">Phiên mới</string>
+  <string name="biometric_auth_image_description">Biểu tượng vân tay</string>
+  <string name="biometric_auth_not_recognized_error">Không thể nhận dạng vân tay. Vui lòng thử lại.</string>
+  <string name="biometric_auth_moved_too_quickly">Ngón tay đã di chuyển quá nhanh. Vui lòng thử lại.</string>
+  <string name="enable_search_suggestion_title">Bạn có muốn bật gợi ý tìm kiếm không?</string>
+  <string name="enable_search_suggestion_subtitle">Để nhận được các đề xuất tìm kiếm, %1$s cần gửi những gì bạn gõ vào thanh địa chỉ đến công cụ tìm kiếm bạn đã chọn. %2$s.</string>
+  <string name="enable_search_suggestion_subtitle_learnmore">Tìm hiểu thêm</string>
+  <string name="enable_search_suggestions_no">Không</string>
+  <string name="enable_search_suggestions_yes">Có</string>
+  <string name="no_suggestions_message">Một vài công cụ tìm kiếm có thể không hiện gợi ý.</string>
+  <string name="dismiss_no_suggestions_prompt_button">Bỏ qua</string>
+  <string name="tip_disable_tracking_protection">Trang web hoạt động không như mong đợi?\n Hay thử tắt Trình chống theo dõi</string>
+  <string name="tip_add_to_homescreen">Truy cập một chạm vào các trang web bạn sử dụng nhiều nhất%1$s Menu &gt; Thêm vào Màn hình chính</string>
+  <string name="tip_set_default_browser">Mở mọi liên kết trong %1$s\n Đặt %1$s làm trình duyệt mặc định</string>
+  <string name="tip_autocomplete_url">Tự động điền URLs cho các trang web bạn sử dụng\n Nhấp và giữ bất kỳ URL trong thanh địa chỉ</string>
+  <string name="tip_open_in_new_tab">Mở liên kết trên thẻ mới\n Nhấp và giữ bất kì liên kết nào trên trang</string>
+  <string name="tip_request_desktop">Muốn xem phiên bản máy tính?%1$s Menu &gt; Yêu cầu trang web trên máy tính</string>
+  <string name="tip_disable_tips2">Tắt mẹo trên màn hình bắt đầu</string>
+  <string name="tip_explain_allowlist">Tin tưởng một trang nào đó?\n Danh sách cho phép vô hiệu hóa Theo dõi bảo vệ cho các trang web bạn biết và tin tưởng.</string>
+  <string name="new_tab_opened_snackbar">Đã mở thẻ mới</string>
+  <string name="open_new_tab_snackbar">Chuyển</string>
+  <string name="preference_open_new_tab">Chuyển sang liên kết trong thẻ mới ngay lập tức</string>
+  <string name="preference_category_safe_browsing">Duyệt web an toàn</string>
+  <string name="preference_safe_browsing_title">Chặn các trang web nguy hiểm và lừa đảo</string>
+  <string name="preference_safe_browsing_summary">Chặn các trang web được báo cáo là lừa đảo và tấn công, trang web phần mềm độc hại và các trang web phần mềm không mong muốn.</string>
+  <string name="preference_exceptions">Ngoại lệ</string>
+  <string name="preference_exceptions_description">Bạn đã tắt chế độ Chặn nội dung cho các trang web này.</string>
+  <string name="preference_exceptions_menu_remove">Xóa</string>
+  <string name="preference_exceptions_remove_all_button_label">Xóa tất cả các trang web</string>
+  <string name="tab_crash_report_title">Thẻ bị hỏng</string>
+  <string name="tab_crash_report_headline">Rất tiếc. Chúng tôi đã gặp sự cố với thẻ này.</string>
+  <string name="tab_crash_report_description">Trong trình duyệt riêng tư, chúng tôi không bao giờ lưu và không thể khôi phục thẻ này.</string>
+  <string name="tab_crash_report_close_tab_button_label">Đóng thẻ</string>
+
+
+
+
+  <string name="crash_report_send_crash_label">Gửi báo cáo lỗi đến Mozilla</string>
+</resources>

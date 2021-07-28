@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="action_cancel">Ακύρωση</string>
+  <string name="action_ok">OK</string>
+  <string name="action_save">Αποθήκευση</string>
+  <string name="urlbar_hint">Αναζήτηση ή πληκτρολόγηση διεύθυνσης</string>
+  <string name="teaser">Αυτόματη ιδιωτική περιήγηση.\nΠεριήγηση. Διαγραφή. Επανάληψη.</string>
+  <string name="feedback_erase">Το ιστορικό περιήγησής έχει εκκαθαριστεί.</string>
+  <string name="search_hint">Αναζήτηση για %1$s</string>
+  <string name="menu_share">Κοινή χρήση…</string>
+  <string name="menu_report_site_issue">Αναφορά ζητήματος ιστοσελίδας</string>
+  <string name="menu_open_with_default_browser2">Άνοιγμα σε %1$s</string>
+  <string name="menu_open_with_a_browser2">Άνοιγμα σε…</string>
+  <string name="menu_add_to_home_screen">Προσθήκη στην Αρχική οθόνη</string>
+  <string name="menu_whats_new">Τι νέο υπάρχει</string>
+  <string name="menu_settings">Ρυθμίσεις</string>
+  <string name="menu_about">Πληροφορίες</string>
+  <string name="menu_help">Βοήθεια</string>
+  <string name="menu_rights">Τα δικαιώματά σας</string>
+  <string name="menu_trackers_blocked_title">Αποκλεισμένοι ιχνηλάτες</string>
+  <string name="menu_content_blocking">Φραγή περιεχομένου</string>
+  <string name="menu_custom_tab_branding">Με την υποστήριξη του %1$s</string>
+  <string name="share_dialog_title">Κοινοποίηση μέσω</string>
+  <string name="notification_erase_text">Διαγραφή ιστορικού περιήγησης</string>
+  <string name="notification_action_open">Άνοιγμα</string>
+  <string name="notification_action_erase_and_open">Διαγραφή και Άνοιγμα</string>
+  <string name="shortcut_erase_short_label">Διαγραφή</string>
+  <string name="shortcut_erase_long_label">Διαγραφή ιστορικού περιήγησης</string>
+  <string name="shortcut_erase_and_open_short_label">Διαγραφή &amp; άνοιγμα</string>
+  <string name="shortcut_erase_and_open_long_label">Διαγραφή και άνοιγμα του %1$s</string>
+  <string name="text_selection_search_action">Ιδιωτική αναζήτηση</string>
+
+  <string name="preference_privacy_and_security_header">Απόρρητο &amp; Ασφάλεια</string>
+  <string name="preference_privacy_and_security_summary">Επιλογές παρακολούθησης, cookies, δεδομένων</string>
+  <string name="preference_search_summary">Ορισμός ως προεπιλογή, αυτόματη συμπλήρωση</string>
+  <string name="preference_mozilla_summary">Σχετικά με το %1$s, βοήθεια</string>
+  <string name="preference_category_tracking_protection">Προστασία από καταγραφή</string>
+  <string name="preference_category_web_content">Διαδικτυακό περιεχόμενο</string>
+  <string name="preference_category_switching_apps">Εναλλαγή εφαρμογών</string>
+  <string name="preference_category_general">Γενικά</string>
+  <string name="preference_category_data_collection_use">Συλλογή &amp; χρήση δεδομένων</string>
+  <string name="preference_category_search">Αναζήτηση</string>
+  <string name="preference_show_search_suggestions">Λήψη προτάσεων αναζήτησης</string>
+  <string name="preference_show_search_suggestions_summary">Το %1$s θα στείλει ό,τι πληκτρολογήσετε στη γραμμή διευθύνσεων στη μηχανή αναζήτησής σας</string>
+  <string name="preference_search_engine_default">Προεπιλογή</string>
+  <string name="preference_search_engine_label">Μηχανή αναζήτησης</string>
+  <string name="preference_state_on">Ενεργό</string>
+  <string name="preference_state_off">Ανενεργό</string>
+  <string name="preference_subitem_autocomplete">Αυτόματη συμπλήρωση URL</string>
+  <string name="preference_switch_autocomplete_topsites">Για κορυφαίες ιστοσελίδες</string>
+  <string name="preference_category_autocomplete_manage_sites">Διαχείριση ιστοσελίδων</string>
+  <string name="preference_autocomplete_subitem_manage_sites">Διαχείριση ιστοσελίδων</string>
+  <string name="preference_autocomplete_action_add">+ Προσθήκη προσαρμοσμένου URL</string>
+  <string name="preference_autocomplete_title_add">Προσθήκη προσαρμοσμένου URL</string>
+  <string name="custom_autocomplete_quick_add">Προσθήκη προσαρμοσμένου URL</string>
+  <string name="preference_category_cookies">Cookies και δεδομένα ιστοσελίδων</string>
+  <string name="preference_category_data_choices">Επιλογές δεδομένων</string>
+  <string name="preference_autocomplete_title_remove">Αφαίρεση προσαρμοσμένων URLs</string>
+  <string name="preference_autocomplete_learn_more">Μάθετε περισσότερα</string>
+  <string name="preference_autocomplete_custom_summary">Προσθήκη και διαχείριση προσαρμοσμένων URLs αυτόματης συμπλήρωσης.</string>
+  <string name="preference_autocomplete_add_title">URL για προσθήκη</string>
+  <string name="preference_autocomplete_add_hint">Επικόλληση ή εισαγωγή URL</string>
+  <string name="preference_autocomplete_add_example2">Παράδειγμα: mozilla.org</string>
+  <string name="preference_autocomplete_add_example">Παράδειγμα: example.com</string>
+  <string name="preference_autocomplete_add_confirmation">Προστέθηκε νέο προσαρμοσμένο URL.</string>
+  <string name="preference_autocomplete_menu_remove">Αφαίρεση</string>
+  <string name="preference_autocomplete_action_remove_content_description">Αφαίρεση</string>
+  <string name="preference_autocomplete_add_error">Ελέγξτε ξανά το URL που πληκτρολογήσατε.</string>
+  <string name="preference_language">Γλώσσα</string>
+  <string name="preference_language_systemdefault">Προεπιλογή συστήματος</string>
+  <string name="preference_category_privacy">Απόρρητο</string>
+  <string name="preference_privacy_block_ads">Φραγή trackers διαφημίσεων</string>
+  <string name="preference_privacy_block_ads_summary">Ορισμένες διαφημίσεις καταγράφουν επισκέψεις ιστοσελίδων, ακόμη κι αν δεν κάνετε κλικ σε διαφημίσεις</string>
+  <string name="preference_privacy_block_analytics">Φραγή trackers αναλύσεων</string>
+  <string name="preference_privacy_block_analytics_summary">Χρησιμοποιείται για συλλογή, ανάλυση και μέτρηση δραστηριοτήτων, όπως πατήματα και κύλιση</string>
+  <string name="preference_privacy_block_social">Φραγή κοινωνικών trackers</string>
+  <string name="preference_privacy_block_social_summary">Ενσωματωμένο σε ιστοσελίδες ώστε να καταγράφει τις επισκέψεις σας και να προβάλει λειτουργικότητα, όπως κουμπιά κοινής χρήσης</string>
+  <string name="preference_privacy_block_content">Φραγή trackers άλλου περιεχομένου</string>
+  <string name="preference_privacy_block_content_summary2">Η ενεργοποίηση ενδέχεται να προκαλέσει απροσδόκητη συμπεριφορά ορισμένων σελίδων</string>
+  <string name="preference_privacy_category_cookies">Αποκλεισμός cookies</string>
+  <string name="preference_privacy_should_block_cookies_no_option">Όχι</string>
+  <string name="preference_privacy_should_block_cookies_third_party_only_option">Φραγή μόνο cookies τρίτων</string>
+  <string name="preference_privacy_should_block_cookies_yes_option">Ναι</string>
+  <string name="preference_security_biometric">Χρήση αποτυπώματος για ξεκλείδωμα εφαρμογής</string>
+  <string name="preference_security_biometric_summary">Το δακτυλικό σας αποτύπωμα μπορεί να ξεκλειδώσει το %1$s αν έχει ήδη ανοίξει ένα URL στην εφαρμογή. Θα ενεργοποιηθεί η διακριτικότητα.</string>
+  <string name="preference_privacy_secure_mode">Αορατότητα</string>
+  <string name="preference_privacy_stealth_summary">Απόκρυψη ιστοσελίδων κατά την εναλλαγή εφαρμογών και φραγή στιγμιότυπων.</string>
+  <string name="preference_category_security">Ασφάλεια</string>
+  <string name="preference_category_performance">Απόδοση</string>
+  <string name="preference_performance_block_webfonts">Φραγή γραμματοσειρών ιστού</string>
+  <string name="preference_performance_block_webfonts_summary">Ενδέχεται να οδηγήσει σε απώλεια εικονιδίων ή εικόνων</string>
+  <string name="preference_performance_block_javascript">Αποκλεισμός JavaScript</string>
+  <string name="preference_performance_block_javascript_summary">Οι σελίδες ενδέχεται να φορτώνονται ταχύτερα, αλλά ίσως συμπεριφερθούν απροσδόκητα</string>
+  <string name="preference_default_browser2">Ορισμός του %1$s ως προεπιλεγμένο πρόγραμμα περιήγησης</string>
+  <string name="preference_category_mozilla">Mozilla</string>
+  <string name="preference_mozilla_telemetry2">Αποστολή δεδομένων χρήσης</string>
+  <string name="preference_mozilla_telemetry_summary">Μάθετε περισσότερα</string>
+  <string name="preference_mozilla_telemetry_summary2">Η Mozilla αγωνίζεται για να συλλέγει μόνο ό,τι χρειάζεται για να παρέχει και να βελτιώνει το %1$s για όλους.</string>
+  <string name="preference_privacy_notice">Σημείωση απορρήτου</string>
+  <string name="preference_about">Σχετικά με το %1$s</string>
+  <string name="preference_search_installed_search_engines">Εγκατεστημένες μηχανές αναζήτησης</string>
+  <string name="preference_search_restore">Επαναφορά προεπιλεγμένων μηχανών αναζήτησης</string>
+  <string name="preference_search_add2">+ Προσθήκη άλλης μηχανής αναζήτησης</string>
+  <string name="preference_search_remove_title">Αφαίρεση μηχανών αναζήτησης</string>
+  <string name="preference_search_remove">Αφαίρεση</string>
+  <string name="preference_homescreen_tips">Εμφάνιση συμβουλών αρχικής οθόνης</string>
+  <string name="action_option_add_search_engine">Προσθήκη μηχανής αναζήτησης</string>
+  <string name="search_add_manually_name_hint">Όνομα μηχανής αναζήτησης</string>
+  <string name="search_add_manually_string">Νήμα αναζήτησης προς χρήση</string>
+  <string name="search_add_manually_save">Αποθήκευση</string>
+  <string name="search_add_manually_example">Παράδειγμα: example.com/search/?q=%s</string>
+  <string name="search_add_confirmation">Προστέθηκε νέα μηχανή αναζήτησης.</string>
+  <string name="search_add_error_empty_name">Εισάγετε όνομα μηχανής αναζήτησης</string>
+  <string name="search_add_error_duplicate_name">Μια εγκατεστημένη μηχανή αναζήτησης χρησιμοποιεί ήδη αυτό το όνομα.</string>
+  <string name="search_add_error_empty_search">Εισάγετε νήμα αναζήτησης</string>
+  <string name="search_add_error_format">Ελέγξτε ότι το νήμα αναζήτησης ταιριάζει με τη μορφή του παραδείγματος</string>
+  <string name="content_description_clear_input">Εκκαθάριση εισόδου</string>
+  <string name="content_description_dismiss_input">Απόρριψη</string>
+  <string name="content_description_erase">Διαγραφή ιστορικού περιήγησης</string>
+  <string name="content_description_tab_counter">Ανοικτές καρτέλες: %1$s</string>
+  <string name="content_description_lock">Ασφαλής σύνδεση</string>
+  <string name="accessibility_announcement_loading">Φόρτωση</string>
+  <string name="accessibility_announcement_loading_finished">Η ιστοσελίδα φορτώθηκε</string>
+  <string name="content_description_menu">Περισσότερες επιλογές</string>
+  <string name="content_description_forward">Πλοήγηση προς τα εμπρός</string>
+  <string name="content_description_reload">Επαναφόρτωση ιστοσελίδας</string>
+  <string name="content_description_back">Πλοήγηση προς τα πίσω</string>
+  <string name="content_description_stop">Διακοπή φόρτωσης ιστοσελίδας</string>
+  <string name="content_description_customtab_exit">Επιστροφή στην προηγούμενη εφαρμογή</string>
+  <string name="content_description_trackers_blocked">Αριθμός αποκλεισμένων ιχνηλατών</string>
+  <string name="content_description_blocking_switch">Φραγή trackers</string>
+  <string name="your_rights">Τα δικαιώματά σας</string>
+  <string name="external_app_prompt_title">Άνοιγμα συνδέσμου σε άλλη εφαρμογή</string>
+  <string name="external_app_prompt">Μπορείτε να φύγετε από το %1$s για να ανοίξετε αυτό το σύνδεσμο στο %2$s.</string>
+  <string name="external_app_prompt_no_app_title">Βρείτε μια εφαρμογή που μπορεί να ανοίξει το σύνδεσμο</string>
+  <string name="external_app_prompt_no_app">Καμία από τις εφαρμογές της συσκευής σας δεν μπορεί να ανοίξει αυτό το σύνδεσμο. Μπορείτε να αποχωρήσετε από το %1$s για να αναζητήσετε στο %2$s μια εφαρμογή που να μπορεί να εκτελέσει αυτή την εργασία.</string>
+  <string name="external_multiple_apps_matched_exit">Έξοδος από την ιδιωτική περιήγηση;</string>
+  <string name="download_snackbar_finished">%1$s τερματίστηκε</string>
+  <string name="download_snackbar_open">Άνοιγμα</string>
+
+
+
+
+
+
+
+
+
+  <string name="error_hostLookup_title">Ο διακομιστής δεν βρέθηκε</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <string name="firstrun_defaultbrowser_title">Ενισχύστε το απόρρητό σας</string>
+  <string name="firstrun_defaultbrowser_text2">Εξελίξτε την ιδιωτική περιήγηση. Αποκλείστε διαφημίσεις και άλλο περιεχόμενο που μπορούν να σάς παρακολουθούν σε όλες τις ιστοσελίδες και επιβραδύνουν τη φόρτωση των σελίδων.</string>
+  <string name="firstrun_search_title">Η αναζήτησή σας, με τον τρόπο σας</string>
+  <string name="firstrun_search_text">Ψάχνετε κάτι διαφορετικό; Επιλέξτε μια άλλη προεπιλεγμένη μηχανή αναζήτησης στις ρυθμίσεις.</string>
+  <string name="firstrun_shortcut_title">Προσθήκη συντομεύσεων στην αρχική οθόνη</string>
+  <string name="firstrun_shortcut_text">Επιστρέψτε γρήγορα στις αγαπημένες σας ιστοσελίδες στο %1$s. Απλά επιλέξτε \"Προσθήκη στην αρχική οθόνη\" από το μενού του %1$s.</string>
+  <string name="firstrun_privacy_title">Κάντε το απόρρητο συνήθεια</string>
+  <string name="firstrun_privacy_text">Ορίστε το %1$s ως το προεπιλεγμένο πρόγραμμα περιήγησής σας και απολαύστε τα οφέλη της ιδιωτικής περιήγησης όταν ανοίγετε ιστοσελίδες από άλλες εφαρμογές.</string>
+  <string name="firstrun_close_button">OK, το \'πιασα!</string>
+  <string name="firstrun_skip_button">Παράκαμψη</string>
+  <string name="firstrun_next_button">Επόμενο</string>
+  <string name="content_blocking_disabled">-</string>
+  <string name="dialog_addtohomescreen_action_add">Προσθήκη</string>
+  <string name="dialog_addtohomescreen_action_cancel">Ακύρωση</string>
+  <string name="dialog_addtohomescreen_tracking_protection">Η συντόμευση θα ανοίξει με ανενεργή προστασία από παρακολούθηση</string>
+  <string name="notification_browsing_session_channel_name">Συνεδρία ιδιωτικής περιήγησης</string>
+  <string name="notification_browsing_session_channel_description">Οι ειδοποιήσεις σάς επιτρέπουν να διαγράψετε τη συνεδρία σας στο %1$s με ένα πάτημα. Δεν χρειάζεται να ανοίξετε την εφαρμογή ή να δείτε τι συμβαίνει στο πρόγραμμα περιήγησής σας.</string>
+  <string name="tabs_tray_action_erase">Διαγραφή ιστορικού περιήγησης</string>
+  <string name="download_firefox">Λήψη του Firefox</string>
+  <string name="your_rights_content1">Το %1$s είναι δωρεάν και ανοικτού κώδικα λογισμικό, που αναπτύσσεται από τη Mozilla και άλλους συνεισφέροντες.</string>
+
+
+
+
+  <string name="gv_prompt_username_hint">Όνομα χρήστη</string>
+  <string name="gv_prompt_password_hint">Κωδικός πρόσβασης</string>
+  <string name="gv_prompt_clear">Εκκαθάριση</string>
+  <string name="security_popup_secure_connection">Ασφαλής σύνδεση</string>
+  <string name="security_popup_insecure_connection">Μη ασφαλής σύνδεση</string>
+  <string name="security_popup_security_verified">Επαληθεύτηκε από: %1$s</string>
+  <string name="site_security_icon_content_description">Ασφάλεια ιστοσελίδας</string>
+  <string name="preference_autocomplete_duplicate_url_error">Το URL υπάρχει ήδη</string>
+  <string name="find_in_page">Εύρεση στη σελίδα</string>
+  <string name="find_in_page_input">Εύρεση στη σελίδα</string>
+  <string name="find_in_page_result">%1$d/%2$d</string>
+  <string name="accessibility_find_in_page_result">%1$d από %2$d</string>
+  <string name="accessibility_next_result">Εύρεση επόμενου αποτελέσματος</string>
+  <string name="accessibility_previous_result">Εύρεση προηγούμενου αποτελέσματος</string>
+  <string name="accessibility_dismiss_find_in_page">Απόρριψη εύρεσης στη σελίδα</string>
+
+
+
+  <string name="preference_performance_request_desktop_site">Απαίτηση ιστοσελίδας για υπολογιστές</string>
+  <string name="custom_tab_copy_url_action">Το URL αντιγράφτηκε</string>
+  <string name="preference_advanced_summary">Εργαλεία προγραμματιστή</string>
+  <string name="preference_category_advanced">Για προχωρημένους</string>
+  <string name="preference_remote_debugging">Απομακρυσμένη αποσφαλμάτωση μέσω USB/Wi-Fi</string>
+  <string name="biometric_auth_title">Άρση φραγής %1$s</string>
+  <string name="biometric_auth_description">Αγγίξτε τον αισθητήρα αποτυπωμάτων για να συνεχίσετε.</string>
+  <string name="biometric_auth_new_session">Νέα συνεδρία</string>
+  <string name="biometric_auth_image_description">Εικονίδιο αποτυπώματος</string>
+  <string name="biometric_auth_not_recognized_error">Το αποτύπωμα δεν αναγνωρίστηκε. Δοκιμάστε ξανά.</string>
+  <string name="biometric_auth_moved_too_quickly">Το δάκτυλο κουνήθηκε πολύ γρήγορα. Δοκιμάστε ξανά.</string>
+  <string name="enable_search_suggestion_title">Θα θέλατε να ενεργοποιήσετε τις προτάσεις αναζήτησης;</string>
+  <string name="enable_search_suggestion_subtitle">Για προτάσεις αναζήτησης, το %1$s πρέπει να στέλνει στην επιλεγμένη σας μηχανή αναζήτησης ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων. %2$s.</string>
+  <string name="enable_search_suggestion_subtitle_learnmore">Μάθετε περισσότερα</string>
+  <string name="enable_search_suggestions_no">Όχι</string>
+  <string name="enable_search_suggestions_yes">Ναι</string>
+  <string name="no_suggestions_message">Μερικές μηχανές αναζήτησης δεν μπορούν να εμφανίσουν προτάσεις.</string>
+  <string name="dismiss_no_suggestions_prompt_button">Απόρριψη</string>
+  <string name="tip_disable_tracking_protection">Απρόσμενη συμπεριφορά ιστοσελίδας;\n Δοκιμάστε να απενεργοποιήσετε την προστασία από καταγραφή</string>
+  <string name="tip_add_to_homescreen">Πρόσβαση με ένα πάτημα σε ιστοσελίδες συχνής χρήσης%1$s Μενού &gt; Προσθήκη στην αρχική οθόνη</string>
+  <string name="tip_set_default_browser">Άνοιγμα κάθε συνδέσμου στο %1$s\n Ορίστε το %1$s ως το προεπιλεγμένο πρόγραμμα περιήγησης</string>
+  <string name="tip_autocomplete_url">Αυτόματη συμπλήρωση URLs για τις ιστοσελίδες συχνής χρήσης\n Πατήστε παρατεταμένα οποιοδήποτε URL στη γραμμή διευθύνσεων</string>
+  <string name="tip_open_in_new_tab">Άνοιγμα συνδέσμου σε νέα καρτέλα\n Πατήστε παρατεταμένα οποιοδήποτε σύνδεσμο σε μια σελίδα</string>
+  <string name="tip_request_desktop">Προτιμάτε την πλήρη έκδοση για υπολογιστές;%1$s Μενού &gt; Απαίτηση ιστοσελίδας για υπολογιστές</string>
+  <string name="open_new_tab_snackbar">Εναλλαγή</string>
+  <string name="preference_category_safe_browsing">Ασφαλής περιήγηση</string>
+  <string name="preference_exceptions">Εξαιρέσεις</string>
+  <string name="preference_exceptions_menu_remove">Αφαίρεση</string>
+  <string name="preference_exceptions_remove_all_button_label">Αφαίρεση όλων των ιστοσελίδων</string>
+  <string name="tab_crash_report_close_tab_button_label">Κλείσιμο καρτέλας</string>
+
+
+</resources>
